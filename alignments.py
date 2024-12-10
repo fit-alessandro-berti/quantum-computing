@@ -3,6 +3,10 @@
 # pip install qiskit-optimization==0.5.0
 # pip install qiskit==0.41.0
 # pip install qiskit-optimization==0.5.0
+# pip install qiskit-machine-learning==0.6.1
+# pip install torch==2.0.1
+# pip install numpy==1.24.3
+# pip install scikit-learn==1.2.2
 
 # Below is a conceptual approach and a toy example of how one might extend the quantum-based QUBO/QAOA approach
 # from a sequence alignment problem to a conformance checking problem between a single trace and a Petri net.
